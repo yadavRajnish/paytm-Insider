@@ -1,1 +1,4 @@
 path/to/large/file filter=lfs diff=lfs merge=lfs -text
+Backend/uploads filter=lfs diff=lfs merge=lfs -text
+C:/Rajnish/paytm-insider/Backend/uploads filter=lfs diff=lfs merge=lfs -text
+Backend/uploads/GitHubDesktopSetup-x64-1717170250560.exe filter=lfs diff=lfs merge=lfs -text
